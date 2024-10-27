@@ -16,12 +16,3 @@ Programming Languages: HTML, CSS, JavaScript, PHP
 # Target Audience
 This project is designed for aircraft maintenance teams, aviation companies, and data scientists interested in applying data analytics to improve aviation safety and efficiency.
 
-
-
-
-# Target Audience
-This project is designed for aircraft maintenance teams, aviation companies, and data scientists interested in applying data analytics to improve aviation safety and efficiency.
-
-
-## Demo
-![This is my project Demo] (""E:\graduation Project\Demo\Demo.mp4"")
