@@ -57,6 +57,5 @@ https://drive.google.com/file/d/1PmFkLuTJpfQp1Egcx7SBOBG8kmruZVFe/view?usp=shari
 
 ![Screenshot 2024-05-09 001802](https://github.com/user-attachments/assets/eb4b5e51-d3da-4381-813c-bb2afd7308ab)
 
-![Screenshot 2024-05-09 001802](https://github.com/user-attachments/assets/49a42c48-be5f-408b-ba44-83438b4c272e)
 
 
