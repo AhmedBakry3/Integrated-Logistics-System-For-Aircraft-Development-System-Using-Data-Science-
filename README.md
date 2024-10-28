@@ -10,7 +10,7 @@ This project aims to enhance the maintenance and operational efficiency of aircr
 4. User-Friendly Interface: Intuitive design for easy navigation and access to critical information.
 
 # Technologies Used
-Database: Oracle
+Database: Oracle , Oracle Miner , Oracle Warehouse
 Programming Languages: HTML, CSS, JavaScript, PHP
 
 # Target Audience
