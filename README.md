@@ -51,8 +51,6 @@ https://drive.google.com/file/d/1PmFkLuTJpfQp1Egcx7SBOBG8kmruZVFe/view?usp=shari
 
 # Oracle Miner Interface
 
-![Screenshot 2024-05-09 020825](https://github.com/user-attachments/assets/77c0c030-72fc-4977-bc1b-3f437b14970f)
-
 ![Screenshot 2024-05-09 001515](https://github.com/user-attachments/assets/afa645b1-4135-4bef-a459-caa6864b98d6)
 
 ![Screenshot 2024-05-09 001650](https://github.com/user-attachments/assets/bce72360-3bdf-4cf4-ab72-e51590cc0ec1)
