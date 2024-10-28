@@ -20,7 +20,7 @@ This project is designed for aircraft maintenance teams, aviation companies, and
 https://drive.google.com/file/d/1PmFkLuTJpfQp1Egcx7SBOBG8kmruZVFe/view?usp=sharing
 
 
-# Screenshot 
+# Interface
 1.Login
 
 ![Screenshot 2024-05-05 172309](https://github.com/user-attachments/assets/9b1fec4a-3df7-48f4-8cac-d34b3002895c)
@@ -47,5 +47,18 @@ https://drive.google.com/file/d/1PmFkLuTJpfQp1Egcx7SBOBG8kmruZVFe/view?usp=shari
 4. Flight Table Page
 
 ![Screenshot 2024-05-09 020825](https://github.com/user-attachments/assets/77c0c030-72fc-4977-bc1b-3f437b14970f)
+
+
+# Oracle Miner Interface
+
+![Screenshot 2024-05-09 020825](https://github.com/user-attachments/assets/77c0c030-72fc-4977-bc1b-3f437b14970f)
+
+![Screenshot 2024-05-09 001515](https://github.com/user-attachments/assets/afa645b1-4135-4bef-a459-caa6864b98d6)
+
+![Screenshot 2024-05-09 001650](https://github.com/user-attachments/assets/bce72360-3bdf-4cf4-ab72-e51590cc0ec1)
+
+![Screenshot 2024-05-09 001802](https://github.com/user-attachments/assets/eb4b5e51-d3da-4381-813c-bb2afd7308ab)
+
+![Screenshot 2024-05-09 001802](https://github.com/user-attachments/assets/49a42c48-be5f-408b-ba44-83438b4c272e)
 
 
