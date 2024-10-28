@@ -29,13 +29,14 @@ https://drive.google.com/file/d/1PmFkLuTJpfQp1Egcx7SBOBG8kmruZVFe/view?usp=shari
    
 ![Screenshot 2024-05-05 173023](https://github.com/user-attachments/assets/215acad4-202a-49ab-ae41-72520bd95832)
 
-![Screenshot 2024-05-05 173141](https://github.com/user-attachments/assets/9bf878f3-c5fb-4a30-ae65-961380178e53)
-
 ![Screenshot 2024-05-05 173141](https://github.com/user-attachments/assets/c908993d-f6a8-4dc1-980d-bac380d0d9b3)
 
 ![Screenshot 2024-05-05 173158](https://github.com/user-attachments/assets/224fb154-10ac-40df-9851-c7bfaf196d72)
 
 ![Screenshot 2024-05-05 173216](https://github.com/user-attachments/assets/ecd134be-cd6d-412d-bc7c-a55e5991dd09)
+
+![Screenshot 2024-05-05 173224](https://github.com/user-attachments/assets/7e8fd158-a334-4364-a48c-3fba338652f3)
+
 
 3.Aircraft Page
 
