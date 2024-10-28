@@ -10,8 +10,8 @@ This project aims to enhance the maintenance and operational efficiency of aircr
 4. User-Friendly Interface: Intuitive design for easy navigation and access to critical information.
 
 # Technologies Used
-Database: Oracle , Oracle Miner , Oracle Warehouse
-Programming Languages: HTML, CSS, JavaScript, PHP
+1. Database: Oracle , Oracle Miner , Oracle Warehouse
+2. Programming Languages: HTML, CSS, JavaScript, PHP
 
 # Target Audience
 This project is designed for aircraft maintenance teams, aviation companies, and data scientists interested in applying data analytics to improve aviation safety and efficiency.
