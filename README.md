@@ -23,7 +23,8 @@ https://drive.google.com/file/d/1PmFkLuTJpfQp1Egcx7SBOBG8kmruZVFe/view?usp=shari
 # Interface
 1.Login
 
-![Screenshot 2024-05-05 172309](https://github.com/user-attachments/assets/9b1fec4a-3df7-48f4-8cac-d34b3002895c)
+![Screenshot 2024-06-22 155336](https://github.com/user-attachments/assets/9fd12603-5d9a-40e8-af01-c9a2364ddcc8)
+
 
 2. Dashboard
    
