@@ -1,4 +1,4 @@
-# Integrated-Logistics-System-For-Aircraft-Development-System-Using-Data-Science-
+# Integrated Logistics System For Aircraft Development System Using Data Science 
 
 ## Purpose
 This project aims to enhance the maintenance and operational efficiency of aircraft through a comprehensive integrated logistics system. By leveraging data science techniques, it focuses on anomaly detection, predictive maintenance scheduling, and inventory optimization.
