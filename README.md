@@ -10,7 +10,7 @@ This project aims to enhance the maintenance and operational efficiency of aircr
 4. **User-Friendly Interface:** Intuitive design for easy navigation and access to critical information.
 
 ## Data Collection Challenges
-Obtaining data was especially challenging due to its highly secure nature. We initially struggled to find relevant information and mostly found stock data. However, we were able to establish a collaboration with **EgyptAir** to access essential data (excluding secure information).To complement this, we also created random data to simulate scenarios and fill gaps in our database. We integrated this data with our own to ensure it met our system requirements. We also implemented strict measures to ensure data integrity, security, consistency, and accuracy throughout.
+Obtaining data was especially challenging due to its highly secure nature. We initially struggled to find relevant information and mostly found stock data. However, we were able to establish a collaboration with **EgyptAir** to access essential data (excluding secure information). To complement this, we also created random data to simulate scenarios and fill gaps in our database. We integrated this data with our own to ensure it met our system requirements. We also implemented strict measures to ensure data integrity, security, consistency, and accuracy throughout.
 
 ## Technologies Used
 1. **Database:** Oracle , Oracle Miner , Oracle Warehouse
