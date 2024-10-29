@@ -21,7 +21,7 @@ https://drive.google.com/file/d/1PmFkLuTJpfQp1Egcx7SBOBG8kmruZVFe/view?usp=shari
 
 
 # Interface
-1.Login
+1.Login Page
 
 ![Screenshot 2024-06-22 155336](https://github.com/user-attachments/assets/9fd12603-5d9a-40e8-af01-c9a2364ddcc8)
 
